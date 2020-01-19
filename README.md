@@ -1,4 +1,4 @@
-# RomanToArabicClient
+# RomanToArabicServer
 It's a server that makes the conversion from roman number to arabic. It waits for query from [RomanToArabicClient](https://github.com/janracz/RomanToArabicClient). Then sends back by TCP the converted value. 
 
 It's an evolution of [RomanToArabic](https://github.com/janracz/RomanToArabic).
